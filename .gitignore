@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Datasets
+LOLV2/
+datasets/
+
+# Model checkpoints / weights
+weights/
+*.pth
+*.pt
+*.ckpt
+
+# Outputs
+output/
+results/
+
+# IDE
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
